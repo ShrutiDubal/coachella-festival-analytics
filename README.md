@@ -106,12 +106,12 @@ The following cross-functional recommendations are derived from the analyses:
 
 
 /coachella-festival-analytics
-│
-├── README.md                          → Executive summary and project deliverable
-├── /sql/                              → SQL schema definitions and analytical queries
-├── /docs/                             → ERD diagrams, schema mapping, and assumptions
-├── /data/                             → Structured dataset (Excel/CSV)
-├── /visuals/                          → Charts, screenshots, and visual documentation
+
+├── README.md        → Executive summary and final project deliverable  
+├── /sql/            → SQL schema definitions and analytical queries  
+├── /docs/           → ERD diagrams, schema mapping, and key assumptions  
+├── /data/           → Structured datasets (CSV, Excel)  
+└── /visuals/        → Charts, dashboards, and visual documentation
 
 
 ---
