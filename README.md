@@ -105,13 +105,15 @@ The following cross-functional recommendations are derived from the analyses:
 ## 7. Project Repository Structure
 
 
+
 /coachella-festival-analytics
 
 ├── README.md        → Executive summary and final project deliverable  
-├── /sql/            → SQL schema definitions and analytical queries  
-├── /docs/           → ERD diagrams, schema mapping, and key assumptions  
-├── /data/           → Structured datasets (CSV, Excel)  
-└── /visuals/        → Charts, dashboards, and visual documentation
+├── /sql/            → Contains SQL database schema code and analytical queries (includes .sql and .docx files with detailed query explanations)  
+├── /docs/           → Includes ERD diagrams, schema mapping, and key project assumptions  
+├── /data/           → Cleaned and structured datasets (in CSV and Excel formats) used for analysis  
+└── /visuals/        → Tableau dashboards and visual outputs with SQL-based insights (included as images)
+
 
 
 ---
